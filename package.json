@@ -20,17 +20,30 @@
     "react-dom": "^19.1.1",
     "react-redux": "^9.2.0",
     "react-router-dom": "^7.9.1",
+<<<<<<< HEAD
     "react-scripts": "5.0.1",
+=======
+    "react-scripts": "^5.0.1",
+>>>>>>> 9f51faf564506eae4ed39444f78036d99231f0cf
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+<<<<<<< HEAD
   "start": "react-scripts start",
   "build": "react-scripts build",
   "serve": "serve -s build",
   "dev": "npm run start",
   "prod": "npm run build && npm run serve"
 },
+=======
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "serve": "serve -s build",
+    "dev": "npm run start",
+    "prod": "npm run build && npm run serve"
+  },
+>>>>>>> 9f51faf564506eae4ed39444f78036d99231f0cf
   "eslintConfig": {
     "extends": [
       "react-app",

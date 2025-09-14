@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 🧑‍💼 Profile Manager App
 
 A responsive profile management app built with React, TypeScript, Redux Toolkit, and MUI. Users can create, view, and delete profiles with proper validation, routing, and local persistence.
@@ -13,11 +14,44 @@ A responsive profile management app built with React, TypeScript, Redux Toolkit,
 - **State Management** – Redux Toolkit for global state + LocalStorage persistence  
 - **Error Handling** – Handles invalid inputs, missing data, and wrong routes  
 - **Environment Variables** – API base URL managed via `.env` file  
+=======
+# 🧑‍💼 Profile Manager App
+
+A responsive, form-driven React application for creating and managing user profiles. Built with **TypeScript**, **Redux Toolkit**, and **Material UI**, this app features robust validation, clean UI, and modular architecture.
+
+---
+
+## 🚀 Live Demo
+
+🔗 [Click here to view the app](https://profile-manager-app-git-main-prashanth-mutlurus-projects.vercel.app)
+
+---
+
+## 🛠️ Tech Stack
+
+- **React** with TypeScript
+- **Redux Toolkit** for state management
+- **Material UI (MUI)** for UI components
+- **Custom CSS** for layout polish
+- **React Router** for navigation
+- **Environment Variables** for config separation
+
+---
+
+## 📦 Features
+
+- Create profile with **Name, Email, Password**
+- Field-specific validation with clear error messages
+- Responsive layout with premium-feel design
+- Modular folder structure for scalability
+- GitHub-hosted with Vercel deployment
+>>>>>>> 9f51faf564506eae4ed39444f78036d99231f0cf
 
 ---
 
 ## 🛠 Installation & Setup
 
+<<<<<<< HEAD
 **1. Clone the repository:**
 
 ```bash
@@ -26,23 +60,42 @@ cd Profile-Manager-app
 ```
 
 **2. Install dependencies:**
+=======
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/akkilivani68/profile-management-app.git
+cd profile-management-app
+```
+
+### 2. Install dependencies
+>>>>>>> 9f51faf564506eae4ed39444f78036d99231f0cf
 
 ```bash
 npm install
 ```
 
+<<<<<<< HEAD
 **3. Run the app locally:**
+=======
+### 3. Run the app locally
+>>>>>>> 9f51faf564506eae4ed39444f78036d99231f0cf
 
 ```bash
 npm run dev
 ```
 
+<<<<<<< HEAD
 **4. Build for production:**
+=======
+### 4. Build for production
+>>>>>>> 9f51faf564506eae4ed39444f78036d99231f0cf
 
 ```bash
 npm run build
 ```
 
+<<<<<<< HEAD
 ## 🌐 Deployment
 
 Deployed using **Vercel**.  
@@ -103,3 +156,11 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 >>>>>>> 1ae8dda (Initial commit)
+=======
+
+## 🙋‍♂️ Author
+
+**Prashanth Mutluru**  
+GitHub: https://github.com/Mutluru-Prashanth
+
+>>>>>>> 9f51faf564506eae4ed39444f78036d99231f0cf
